@@ -7,4 +7,5 @@ python main_llm_mmoe_norm.py -d ICEWS14s --train-history-len 3 --test-history-le
 ```
 
 Due to GitHub's file size limitations, you can find the graph encoder and LLM embedding files (LLaMA2-7B) we used at this link and place them in the models folder: https://drive.google.com/drive/folders/1secSnfOxbLeYfzZdd14NnMbGpZ8iJ3Gj?usp=drive_link
+
 You can also use other graph encoder or embeddings from different LLMs.
